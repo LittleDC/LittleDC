@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m past learning JS_Pro/Vue/Webpack 😶‍🌫️
+- 🍀 I’m past learning JS_Pro/Vue/Webpack 😶‍🌫️
 - 🌱 I’m currently learning React/RN/i18n 😶‍ 
 - 👯 I’m looking to collaborate on how to Become a master 🤡
 - 🤔 I’m looking for help with how to meet the other half 🥺
-- 💬 Ask me about ??? 👻
+- 💬 Ask me about ???(anything?) 👻
 - 📫 How to reach me: just send email to [![Email](https://img.shields.io/badge/-1187061276@qq.com-1e87f0?style=flat-square&logo=Gmail&logoColor=fff)](mailto:1187061276@qq.com)
-- ⚡ No code later than 11:00 every night😴
+- ⚡ No code later than 11:00 every night(maybe?)😴
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=LittleDC)
 
