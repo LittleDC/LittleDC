@@ -10,7 +10,7 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=LittleDC)
 
-![LittleDC's github stats](https://github-readme-stats.vercel.app/api/?username=LittleDC&show_icons=true&theme=dracula)
+![LittleDC's github stats](https://github-readme-stats.vercel.app/api/?username=LittleDC&show_icons=true&theme=dracula&count_private=true)
 
 THX for your watch!🌹
 
