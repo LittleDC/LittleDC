@@ -7,6 +7,7 @@
 - 💬 Ask me about ???(anything?) 👻
 - 📫 How to reach me: just send email to [![Email](https://img.shields.io/badge/-1187061276@qq.com-1e87f0?style=flat-square&logo=Gmail&logoColor=fff)](mailto:1187061276@qq.com)
 - ⚡ No code later than 11:00 every night(maybe?)😴
+- 😮‍💨 Now I'm mostly on the company git (gitlab)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=LittleDC)
 
