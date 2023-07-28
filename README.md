@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🍀 I’m past learning JS_Pro/Vue/Webpack 😶‍🌫️
-- 🌱 I’m currently learning React/RN/i18n 😶‍ 
+- 🍀 I’m past learning Vue2 😶‍🌫️
+- 🌱 I’m currently learning React/RN/Taro 😶‍ 
 - 👯 I’m looking to collaborate on how to Become a master 🤡
 - 🤔 I’m looking for help with how to meet the other half 🥺
 - 💬 Ask me about ???(anything?) 👻
